@@ -2,7 +2,9 @@
 This application allows you to encrypt and decrypt messages with Vigenere cipher and some transposition ciphers. It has user interface so
 i hope you enjoy to use it :)
 
-<img src="https://psv4.userapi.com/c848228/u141400706/docs/d18/f6c0e026ccbe/1.png?extra=W_abdFAA2aLpRX5SaZT4c_6iCCotADosmJm1OlWBQSuxjj5SFJ5CxQ0_SOt8DM_OQ9QVTGeAH5CvXqkbOu2K2LcDakUDIkPUGzjIgIvurkoSGgRwoQyc1ewLlJXtPTUtsyCogYbS1j3nfixTIE2h365M">
+
+<img src="https://psv4.userapi.com/c848228/u141400706/docs/d18/172d308b2226/1.png?extra=Ezyz5nh1o2LU3omayvCgfZ6iCEgK3EfMIOwLIxhkWPHhe3j_Q01AVkrunzgkvGpnRwB0stVHwnS4flXKgLbmnII1Cd_OH8Q1Aem-B18MGwkiaOCvb2bENv_fucCgvwXp6VLtmoDCuyfVp7uywVOCLnm2">
+
 
 The application allows you to encrypt and decrypt text messages with using the Vigenere, Scytale, Rail Fence,
 Vertical and Double transposition ciphers.
